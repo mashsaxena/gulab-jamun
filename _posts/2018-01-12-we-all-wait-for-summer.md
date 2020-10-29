@@ -2,7 +2,7 @@
 layout: post
 title:  "We all wait for summer"
 author: john
-categories: [ Jekyll, tutorial ]
+categories: [ Love and Violence ]
 image: assets/images/5.jpg
 rating: .5
 ---

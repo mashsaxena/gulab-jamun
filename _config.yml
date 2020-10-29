@@ -14,31 +14,78 @@ permalink: /:title/
 
 # Authors
 authors:
+  
   amrita:
     name: Amrita Nair
     display_name: Amrita Nair
     avatar: 'assets/images/amrita1.jpg'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
- 
+    email: 
+    instagram:
+    twitter: 
+    description: "test test test"
+  
   pooja:
     name: Pooja Kadaboina
     display_name: Pooja Kadaboina
     avatar: 'assets/images/pooja1.jpg'
-    image: 'assets/images/pooja1.jpg'
+    email: 
+    instagram: 
+    twitter:
+    description: ""
   
-    
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  trupthi:
+    name: Trupthi Chandan
+    display_name: Trupthi Chandan
+    avatar: 'assets/images/trupthi1.jpg'
+    email: 
+    instagram: 
+    twitter:
+    description: ""
+  
+  lily:
+    name: Lily Ann
+    display_name: Lily Ann
+    avatar: 'assets/images/lily1.jpg'
+    email: 
+    instagram: 
+    twitter:
+    description: ""
+  
+  roheet:
+    name: Roheet Bose
+    display_name: Roheet Bose
+    avatar: 'assets/images/roheet1.jpg'
+    email: 
+    instagram: 
+    twitter:
+    description: ""
+
+  manasa:
+    name: Manasa H.M
+    display_name: Manasa H.M
+    avatar: 'assets/images/manasa1.jpg'
+    email: 
+    instagram: 
+    twitter:
+    description: ""
+  
+  rachel:
+    name: Rachel Jacob T.
+    display_name: Rachel Jacob T.  
+    avatar: 'assets/images/rachel1.jpg'
+    email: 
+    instagram: 
+    twitter: 
+    description: ""
+
+  drishti:
+    name: Drishti Sahay
+    display_name: Drishti Sahay
+    avatar: 'assets/images/drishti1.jpg'
+    email: 
+    instagram: 
+    twitter:
+    description: ""
 
 # Plugins
 plugins:
