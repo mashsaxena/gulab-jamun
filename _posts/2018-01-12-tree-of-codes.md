@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tree of Codes"
-author: sal
+author: lily
 categories: [ Love and Violence ]
 image: assets/images/9.jpg
 ---
