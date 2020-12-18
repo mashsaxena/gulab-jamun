@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Final Battle"
-author: 
+author: rachel
 categories: [ Feminist Perspective ]
 image: assets/images/blog/captain.jpg
 featured: true
