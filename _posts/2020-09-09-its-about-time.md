@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "If time was the excuse then it's about time"
-author: 
+author: amrita
 categories: [ Feminist Perspective ]
 image: assets/images/blog/arre.jpg
 featured: true
